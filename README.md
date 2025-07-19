@@ -8,6 +8,7 @@ The Purpose is to create a dashboard to analyse the popularity of movies/actors,
 ​Additionally, this project allows me to familiarise myself with tools that might be used in a data-related job; Power BI and Apache Spark.
 
 ## Diagram
+
 ![Data Flow diagram](dataflowforimdb.png)
 
 ## Tasks/Tools used
