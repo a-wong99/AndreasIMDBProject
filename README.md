@@ -15,6 +15,7 @@ Apache Spark was used to explore, pre-process and transform over 2,000,000 rows 
 
 Then the transformed data is then loaded into Power BI to create visualisations and a table where users can query the data
 
+## File Descriptions
 **imdb testing.ipynb** is the python notebook file where I pre-processed the IMDB datasets.
 
 **imdbparquettest.pbix** is the Power BI workbook where the popularity of movies is analysed, using data from the IMDB datesets.
