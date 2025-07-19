@@ -11,7 +11,7 @@ The Purpose is to create a dashboard to analyse the popularity of movies/actors,
 
 ![Data Flow diagram](dataflowforimdb.png)
 
-## Tasks/Tools used
+## Tools used
 Apache Spark was used to explore, pre-process and transform over 2,000,000 rows of data.
 
 Then the transformed data is then loaded into Power BI to create visualisations and a table where users can query the data
